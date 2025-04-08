@@ -2,9 +2,9 @@
 
 ## 🚀 Live Demo
 
-[🔗 Live Website](https://your-deployed-site-link.com)
+[🔗 Live Website](https://json-dynamic-form-self.vercel.app/)
 
 
 ## 🖼️ Screenshot
 
-![Website Screenshot](https://your-image-url.com/screenshot.png)
+![Website Screenshot](./dynamic-form/src/assets/dynamic-form.png)
